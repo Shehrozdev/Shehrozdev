@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shehrozdev
 - 👀 I’m interested in web development and SEO
-- 🌱 I’m currently learning JS & Javascript
+- 🌱 I’m currently learning JS & PHP
 - 💞️ I’m looking to collaborate on SEO and website dvelopment projects.
 - 📫 You can contact me on shehrozrramzan@gmail.com
 
